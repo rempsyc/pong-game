@@ -1,0 +1,19 @@
+body {
+  background: #222;
+  color: #fff;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+#scoreboard {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+#pong {
+  border: 2px solid #fff;
+  background: #000;
+  display: block;
+  margin: 0 auto;
+  box-shadow: 0 0 20px #fff8;
+}
